@@ -1,14 +1,22 @@
 {
-  "name": "backend",
+  "name": "backend-crud",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sanghamitra0591/b22nxm.git"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sanghamitra0591/b22nxm/issues"
+  },
+  "homepage": "https://github.com/sanghamitra0591/b22nxm#readme",
   "dependencies": {
     "bcrypt": "^5.1.0",
     "cors": "^2.8.5",
